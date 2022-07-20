@@ -1,22 +1,22 @@
 <!-- About the project -->
 
 <div align="center" id="top"> 
-  <img src="assets/img/exemple.png" alt="image description" />
+  <img src="img/exemple.png" alt="image description" />
 
   &#xa0;
 
 </div>
 
-<h1 align="center">Record and translate</h1>
+<h1 align="center">Bikcraft</h1>
 
 <p align="center">
-  <img alt="Main project language" src="https://img.shields.io/github/languages/top/arlendev/gravador-tradutor?color=#FEAC40">
+  <img alt="Main project language" src="https://img.shields.io/github/languages/top/arlendev/bik-craft?color=#FEAC40">
   &nbsp
-  <img alt="Number of languages used" src="https://img.shields.io/github/languages/count/arlendev/gravador-tradutor?color=#FEAC40">
+  <img alt="Number of languages used" src="https://img.shields.io/github/languages/count/arlendev/bik-craft?color=#FEAC40">
   &nbsp
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/arlendev/gravador-tradutor?color=#FEAC40">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/arlendev/bik-craft?color=#FEAC40">
   &nbsp
-  <img alt="License" src="https://img.shields.io/github/license/arlendev/gravador-tradutor?color=#FEAC40">
+  <img alt="License" src="https://img.shields.io/github/license/arlendev/bik-craft?color=#FEAC40">
   &nbsp
 </p>
 
@@ -33,19 +33,17 @@
 
 ## :dart: About ##
 
-This project is a part of a system developed for professionals who need to record patient notes in audio and later make this content available in text in a patient file. 
-Allows voice or text input and text output with translation. 
-It can be used for notes and anamnesis of patients of a physiotherapist for example.
+The Bikcraft project was developed during the Complete Web Design course at Origamid. During the course, we learned all the basics of UI/UX Design and coding, putting all the concepts into practice developing from the wireframe to the design and finally, the code of the website of Bikcraft a company that sells custom made custom bikes, where we develop concepts such as semantic HTML, image optimization and CSS files.
 
 ## :rocket: Technologies ##
 
 - HTML
 - CSS
-- JavaScript
 
 ## :computer: Installation ##
 
-You can use it by clicking [HERE](https://arlendev.github.io/gravador-tradutor/) or you can download the zipped project.
+Clone the repository  
+git clone https://github.com/arlendev/bik-craft
 
 
 ## :memo: License ##
@@ -54,13 +52,11 @@ This project is under MIT license. See the [LICENSE](LICENSE) file for more deta
 
 ## :v: Credits ##
 
-Partial credits [William Lucas](https://github.com/WilliamDosSantos)
-
 ## :pencil2: Author ##
 
 <div align="center">
   <a href="https://arlendev.github.io/portfolio/">
-    <img src="assets/img/logoArlen.png" target="_blank" alt="Logo" width="auto" height="130">
+    <img src="img/logoArlen.png" target="_blank" alt="Logo" width="auto" height="130">
   </a>
 </div>
 
